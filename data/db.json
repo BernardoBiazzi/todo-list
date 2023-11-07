@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 669,
+      "title": "Tudo bem",
+      "time": "com você?",
+      "done": false
+    },
+    {
+      "id": 574,
+      "title": "eai",
+      "time": "beleza",
+      "done": false
+    },
+    {
+      "id": 527,
+      "title": "Incluir SSR no React com Next.js",
+      "time": "20",
+      "done": false
+    }
+  ]
+}
